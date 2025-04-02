@@ -37,8 +37,8 @@
 - Git + GitHub
 
 ---
-##📁 폴더 구조
-<pre>  ``` kream_admin_backend/ ├── adminpage.html # 상품 목록 ├── join.html # 회원가입 폼 ├── success.html # 가입 완료 페이지 ├── users.json # 회원 정보 저장 ├── server.js # Node.js 서버 ├── screenshot_*.png # 캡처 이미지들 └── README.md # 프로젝트 소개 ``` </pre>
+## 📁 폴더 구조
+ ``` kream_admin_backend/ ├── adminpage.html # 상품 목록 ├── join.html # 회원가입 폼 ├── success.html # 가입 완료 페이지 ├── users.json # 회원 정보 저장 ├── server.js # Node.js 서버 ├── screenshot_*.png # 캡처 이미지들 └── README.md # 프로젝트 소개 ``` 
 ---
 
 ## 🚀 실행 방법
