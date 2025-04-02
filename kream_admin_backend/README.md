@@ -38,6 +38,7 @@
 
 ---
 ##📁 폴더 구조
+'''
 kream_admin_backend/
 ├── adminpage.html        # 상품 목록
 ├── join.html             # 회원가입 폼
@@ -46,6 +47,7 @@ kream_admin_backend/
 ├── server.js             # Node.js 서버
 ├── screenshot_*.png      # 캡처 이미지들
 └── README.md             # 프로젝트 소개
+'''
 
 ---
 
