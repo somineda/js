@@ -23,7 +23,7 @@
 <img width="402" alt="스크린샷 2025-04-02 오후 1 35 02" src="https://github.com/user-attachments/assets/c2f40322-eb6b-4bc4-a5dc-1ded5d3e58c1" />
 
 ### ✅ 회원 데이터 저장 (JSON) 
-<img width="1292" alt="스크린샷 2025-04-02 오후 1 35 12" src="https://github.com/user-attachments/assets/67f4cff0-dc7b-44a6-8859-024e009b2e19" />
+<img width="1292" alt="스크린샷 2025-04-02 오후 1 35 12" src="https://github.com/user-attachments/assets/f2a86149-10e7-416d-a8cc-7dc758976b22" />
 
 
 ---
