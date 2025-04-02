@@ -41,6 +41,30 @@
  ``` kream_admin_backend/ ├── adminpage.html # 상품 목록 ├── join.html # 회원가입 폼 ├── success.html # 가입 완료 페이지 ├── users.json # 회원 정보 저장 ├── server.js # Node.js 서버 ├── screenshot_*.png # 캡처 이미지들 └── README.md # 프로젝트 소개 ``` 
 ---
 
+### 3. 📂 주요 파일 설명
+```md
+
+| 파일명              | 설명                     |
+|-------------------|------------------------|
+| `adminpage.html`  | 상품 목록 페이지           |
+| `join.html`       | 회원가입 폼               |
+| `success.html`    | 가입 완료 페이지           |
+| `users.json`      | 가입된 회원 정보를 저장하는 파일 |
+| `server.js`       | Node.js + Express 서버     |
+
+---
+
+
+## ✨ 주요 기능
+- 상품 목록 조회, 카테고리 필터링, 페이지네이션
+- 회원가입 폼 및 유효성 검사
+- 가입 완료 후 success.html로 이동
+- 서버 연동(Node.js + JSON 저장)
+- 다크모드 토글 기능
+
+---
+
+
 ## 🚀 실행 방법
 
 # 1. 프로젝트 클론
